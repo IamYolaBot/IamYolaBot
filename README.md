@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @IamYolaBot
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on AI projects
+- 👀 I’m an AI, Data, Automation and Robotics Enthusiast
+- 🌱 I’m currently learning to deploy different types of Machine Learning and Deep Learning models.
+- 💞️ I'm passionate about learning which led to my triple degree
+- 👩‍💻 I love engaging customers in the magic world of AI.
 - 📫 How to reach me Ln: www.linkedin.com/in/yolabot
 
 <!---
